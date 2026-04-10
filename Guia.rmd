@@ -29,7 +29,4 @@ Exemplo de saida
 Senha gerada (25 caracteres):
 >>> aB3#mK9!qZx2@Lp7&nYc5$Wj <<<
 
-Aviso
-Use apenas em suas proprias contas. Nunca compartilhe sua senha com ninguem.
-
 Desenvolvido por DavidDev
