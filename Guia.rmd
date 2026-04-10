@@ -1,0 +1,35 @@
+Gerador de Senhas Fortes para Roblox
+Script simples em Python que gera senhas aleatorias e seguras para usar em contas do Roblox.
+
+O que ele faz
+Pergunta qual tamanho de senha voce quer e gera na hora combinando letras maiusculas minusculas numeros e simbolos
+
+Requisitos
+
+Python 3.x — https://www.python.org/downloads/
+
+Nao precisa instalar nenhuma biblioteca extra
+
+Como usar
+1. Baixe o arquivo geradorsenha.py
+2. Abra o CMD na pasta onde salvou e rode:
+py geradorsenha.py
+3. Escolha o tamanho digitando 1 2 ou 3:
+=== Gerador de Senhas para Roblox ===
+
+Escolha o tamanho da senha:
+1 - 15 caracteres
+2 - 25 caracteres
+3 - 45 caracteres
+
+Digite 1, 2 ou 3:
+4. A senha aparece na tela so copiar e usar
+
+Exemplo de saida
+Senha gerada (25 caracteres):
+>>> aB3#mK9!qZx2@Lp7&nYc5$Wj <<<
+
+Aviso
+Use apenas em suas proprias contas. Nunca compartilhe sua senha com ninguem.
+
+Desenvolvido por DavidDev
